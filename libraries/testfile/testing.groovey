@@ -1,5 +1,5 @@
 void call(){
-    stage("Testfile: Testing"){
+    stage("testfile: testing"){
         println "Prakash from the testing library"
     }
 }
