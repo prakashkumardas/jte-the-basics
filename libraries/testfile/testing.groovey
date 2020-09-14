@@ -1,5 +1,0 @@
-void call(){
-    stage("testfile: testing"){
-        println "Prakash from the testing library"
-    }
-}
